@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="{{ .Language.Lang }}">
+
+	<head>
+		<title> {{ .Title }} &middot; {{ .Site.Title }} </title>
+
+		{{ partial "head.html" . }}
+	</head>
+
+	<body>
+		{{ partial "header.html" . }}
+		<div class="flex-wrapper">
+			<div class="container wrapper">
+				<div class="row">
+					<div class="col-xs-12 text-center">
+						<h1 id=>{{ .Title }}</h1>
+					</div>
+				</div>
+				{{ partial "postlist.html" . }}
+				{{ partial "pagination" . }}
+			</div>
+			{{ partial "footer.html" . }}
+		</div>
+	</body>
+</html>
