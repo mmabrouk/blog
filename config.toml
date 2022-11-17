@@ -1,0 +1,25 @@
+baseURL = 'http://mahmoudmabrouk.com'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+Theme = 'hugo-theme-nix'
+[params]
+  Name = "Mahmoud Mabrouk"
+  HeaderUsername = "mahmoud"
+  HeaderHostname = "mabrouk"
+  About = "Founding ML Engineer @ modelme.tech working on Generative AI / PhD candidate working on ml and compBio (protein structure prediction)."
+  ProfilePicture = "portrait_real.jpeg"
+  Email = "resiros[at]thatgoogleprovide.com"
+  GithubID="mmabrouk"
+  LinkedInID = "mmabrouk2"
+  TwitterID = "mmabrouk_"
+  TwitchID = "resiros"
+
+[menu]
+  [[menu.header]]
+    name = "posts"
+    weight = 0
+    url = "/posts"
+
+
+  
+
