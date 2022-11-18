@@ -1,6 +1,6 @@
 baseURL = 'https://mahmoudmabrouk.com'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Mahmoud Mabrouk Personal Webpage'
 Theme = 'hugo-theme-nix'
 [params]
   Name = "Mahmoud Mabrouk"
