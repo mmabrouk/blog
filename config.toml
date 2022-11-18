@@ -1,4 +1,4 @@
-baseURL = 'http://mahmoudmabrouk.com'
+baseURL = 'https://mahmoudmabrouk.com'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 Theme = 'hugo-theme-nix'
