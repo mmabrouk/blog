@@ -35,7 +35,7 @@ Truthfully, I have been thinking about starting a blog for years now, but never 
  
 No rereading, no perfecting. He just shipped it.
  
-That was an eye-opener for me. I am the kind of perfectionist who tries to get everything perfect. As I watched someone who was quite accomplished ***just do it***, I realized that I should do the same.
+That was an eye-opener for me. I am the kind of perfectionist who tries to get everything right. As I watched someone who was quite accomplished ***just do it***, I realized that I should do the same.
  
 So, this is my imperfect attempt at writing.
 
